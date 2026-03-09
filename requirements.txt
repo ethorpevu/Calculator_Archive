@@ -1,3 +1,0 @@
--r EcoLogits-Aug-2025/requirements.txt
-
-### directing streamlit to look for requirements in the right location.
